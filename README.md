@@ -1,8 +1,7 @@
 <a href="https://www.vidvisionify.com/about">
 <img align="right" alt="art by @artsbvg.bsky.social" src="imgs/cooking_KinqBVG_250px.png">
 </a>
-
-# Hey there, I’m **Vid**⚡ <img height="32px" alt="art by @kaiera.furria.net" src="imgs/miniicon_fiaKaiera_256.png">
+Hey there, I’m **Vid**⚡ <img height="16px" alt="art by @kaiera.furria.net" src="imgs/miniicon_fiaKaiera_256.png">
 I dabble in Video 🎥, Gaming 🎮, VR 🥽, and Smart Home 🏡.
 
  - 💬 My username is pronounced *vid - vision - if - i*
